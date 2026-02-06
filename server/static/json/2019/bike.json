@@ -1,0 +1,74 @@
+[
+  {
+    "firstName": "Bike",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/bike/bike_grupna.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Josip",
+    "lastName": "Budimir",
+    "quote": "Rekli su mi da će bit vožnji",
+    "mostLikely": "Vjerojatno će biti straža na idućoj brucki",
+    "photo": "/static/photos/2019/bike/josip_budimir.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Kučinac",
+    "quote": "I will strike down upon thee with great vengeance and furious anger",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/bike/matija_kucinac.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Fran",
+    "lastName": "Miočić-Stošić",
+    "quote": "Samo pijan drogu da prebolim ove noći duge i sudbinu zlu",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/bike/fran_miocic_stosic.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Mihael",
+    "lastName": "Nosil",
+    "quote": "Ne ti nisi đavo, kriješ se iza krinke, lice ispod šminke bledo je kao led",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/bike/mihael_nosil.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Domagoj",
+    "lastName": "Novokmet",
+    "quote": "I fucked ur bitch in bowser's castle",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/bike/domagoj_novokmet.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Tibor",
+    "lastName": "Pfarrer",
+    "quote": "Ima ne'ko zakrpu?",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/bike/tibor_pfarrer.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Purgar",
+    "quote": "Ja sam tu z biciklom",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/bike/matija_purgar.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Radelić",
+    "quote": "Bajkeru noćas budi drug",
+    "mostLikely": "Rekli smo mu da napravi facu kao da mora na wc",
+    "photo": "/static/photos/2019/bike/nikola_radelic.jpg",
+    "anchorHolder": "bike-sekcija"
+  }
+]

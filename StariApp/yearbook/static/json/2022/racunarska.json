@@ -1,0 +1,146 @@
+[
+  {
+    "firstName": "Računarska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/A.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Josip \"josil\"",
+    "lastName": "Igrec",
+    "quote": "Web, ali s dva e",
+    "mostLikely": "Prebolio teži slučaj ligme",
+    "photo": "/static/photos/2022/comp/Josip_Igrec.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Cvijanović",
+    "quote": "Keep calm and experience susramlje",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Adrian_Cvijanovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Benny",
+    "lastName": "",
+    "quote": "JOSILE NAPIŠI NEŠTO",
+    "mostLikely": "nešto",
+    "photo": "/static/photos/2022/comp/Benny.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Borno",
+    "lastName": "Stojak",
+    "quote": "{\"errormessage\": \"success\"}",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Borno_Stojak.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Filip \"Barba\"",
+    "lastName": "Barbarić",
+    "quote": "I noga u guzicu je korak naprijed",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Filip_Barbaric.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Gašpar",
+    "lastName": "Dončević",
+    "quote": "Making the mother of all omelettes here Jack",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Gaspar_Doncevic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Ivan \"IvanKa\"",
+    "lastName": "Karlović",
+    "quote": "Oprosti lutko prva počela si igru, 50 kila mesa bacila si tigru",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Ivan_Karlovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Ivona \"Ivana\"",
+    "lastName": "Tomašić",
+    "quote": "Choccy milk is the meaning of life",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Ivana_Tomasic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Jakov \"Jabuka\"",
+    "lastName": "Ivković",
+    "quote": "Zaželim se često tvog toplog komina, kruva ispod peke, briškule i vina",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Jakov_Ivkovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Josip",
+    "lastName": "Majer",
+    "quote": "Is this a butterfly?",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Josip_Majer.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Karlo",
+    "lastName": "Miličević",
+    "quote": "Kako da ju nagovorim na lignju?",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Karlo_Milicevic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Maksimilijan",
+    "lastName": "Marošević",
+    "quote": "Like I said, kids are cruel, Jack",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Maksimilijan_Marosevic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Marin \"Capi\"",
+    "lastName": "Capan",
+    "quote": "eStudent > KSET",
+    "mostLikely": "Još samo blagajnik da budem",
+    "photo": "/static/photos/2022/comp/Marin_Capan.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Matea",
+    "lastName": "Čunović",
+    "quote": "Zašto kondenzatori cvile?\nZato jer djeca u Africi kopaju tantal.",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Matea_Cunovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Petrušić",
+    "quote": "Ako imaš petlju, ako imaš herca, pokloni mi bundu od nerca",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Nina_Petrusic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Pitaja",
+    "lastName": "Man",
+    "quote": "Zar na Jarunu ima jezero?!",
+    "mostLikely": "1/1 odgovoran za sve neartikulirane zvukove iz Compa",
+    "photo": "/static/photos/2022/comp/Pitaja_Man.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Tarik",
+    "lastName": "Karamehmedović",
+    "quote": "Memes, the DNA of the soul. They shape our will. They are the culture.",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/comp/Tarik_Karamehmedovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "firstName": "Računarska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/racunarska_grupna.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Anić",
+    "quote": "Tu ru ru",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/ivan_anic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dominik",
+    "lastName": "Barbarić",
+    "quote": "Tu ru ru",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/dominik_barbaric.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Josip 'Cona'",
+    "lastName": "Glasovac",
+    "quote": "Tu ru ru tu tu tu tuuuuu",
+    "mostLikely": "Da, Cona ima ime i prezime.",
+    "photo": "/static/photos/2016/racunarska/josip_glasovac.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Belma",
+    "lastName": "Gutlić",
+    "quote": "Tu ru ru",
+    "mostLikely": "Jebem ti kruščić.",
+    "photo": "/static/photos/2016/racunarska/belma_gutlic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Andrej",
+    "lastName": "Mijić",
+    "quote": "Tu ru ru tu tu tu tuuuuu",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/andrej_mijic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Filip 'Mrav'",
+    "lastName": "Mravunac",
+    "quote": "Ti me slijediš, bježim i gubim dah",
+    "mostLikely": "Mrzi gadarije koje proizvodi Video sekcija.",
+    "photo": "/static/photos/2016/racunarska/filip_mravunac.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Gregor",
+    "lastName": "Orlić",
+    "quote": "Neka jaka želja upija mi strah",
+    "mostLikely": "Najbolje ime za Thompsonovog gitarsita.",
+    "photo": "/static/photos/2016/racunarska/gregor_orlic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Pađen",
+    "quote": "Koji korak još i kraj ulice",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/marko_padjen.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marin",
+    "lastName": "Petričević",
+    "quote": "Srce divlje lupa, želim te",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/marin_petricevic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Borna",
+    "lastName": "Pondelak",
+    "quote": "Ja ti brišem suze vodim te u stan",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/borna_pondelak.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Pranjić",
+    "quote": "Dok polako pogled moj spušta se",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/marko_pranjic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Skopljak",
+    "quote": "Vou vou jei je, sada pratim ritam tvoj",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/jan_skopljak.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Borna 'Smorna'",
+    "lastName": "Smojver",
+    "quote": "Vou vou, jei je, ovu pjesmu novi broj",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/borna_smojver.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dino",
+    "lastName": "Srdoč",
+    "quote": "Vou, vou, jei je, ako želiš bit ću ja",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/dino_srdoc.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Nino Nikola",
+    "lastName": "Stanušić",
+    "quote": "",
+    "mostLikely": "Vou, vou, jei je, program tvog kompjutera",
+    "photo": "/static/photos/2016/racunarska/nino_nikola_stanusic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dona",
+    "lastName": "Šeruga",
+    "quote": "Mrak je teži nego svjetlo, ti spremaš ključ",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/dona_seruga.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Šparica",
+    "quote": "U prazninu tonem, tvoj je dodir vruć",
+    "mostLikely": "He will protect his virginity.",
+    "photo": "/static/photos/2016/racunarska/mario_sparica.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dario",
+    "lastName": "Zorić",
+    "quote": "Dok mi diraš kosu ja gledam te",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/racunarska/dario_zoric.jpg",
+    "anchorHolder": ""
+  }
+]

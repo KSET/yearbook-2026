@@ -1,0 +1,162 @@
+[
+  {
+    "firstName": "Tehnička",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/tech_grupna.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Tomislav 'Baban'",
+    "lastName": "Babović",
+    "quote": "Bolje bušilica u ruci, nego dijete u pelenama.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/tomislav_babovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "David",
+    "lastName": "Bošnjak",
+    "quote": "It's not the fire that's hot in here.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/david_bosnjak.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Matko",
+    "lastName": "Brekalo",
+    "quote": "Vrijedi do crne ventilacije.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/matko_brekalo.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Mislav",
+    "lastName": "Čulig",
+    "quote": "v0=0",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/mislav_culig.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Joško",
+    "lastName": "Frančeski",
+    "quote": "Bolje biti čitav život živ, nego jedan dan mrtav!",
+    "mostLikely": "Najvjerojatnije je mrtav iznutra.",
+    "photo": "/static/photos/2016/tehnicka/josko_franceski.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Filip 'Medar'",
+    "lastName": "Hormot",
+    "quote": "Biti ili mediti...",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/filip_hormot.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Jakopović",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/dora_jakopovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Matej",
+    "lastName": "Janjić",
+    "quote": "N-N-N-NA",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/matej_janjic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Kos",
+    "quote": "My tube is under pressure.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/ivan_kos.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Petra",
+    "lastName": "Kovačević",
+    "quote": "Ja ništa ne znam. Ja sam tu sa kistom.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/petra_kovacevic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Mateo",
+    "lastName": "Marcelić",
+    "quote": "Batman.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/mateo_marcelic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Magdalena",
+    "lastName": "Matijević",
+    "quote": "Moj um je kist, a med mi je boja.",
+    "mostLikely": "A Hormot joj je platno.",
+    "photo": "/static/photos/2016/tehnicka/magdalena_matijevic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Roko",
+    "lastName": "Mišlov",
+    "quote": "091 791 11 26",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/roko_mislov.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Willi",
+    "lastName": "Pavlek",
+    "quote": "Nanananana",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/willi_pavlek.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Matea",
+    "lastName": "Perić",
+    "quote": "Konobar, 'esi mi živ, 'esi mi dobar daj šta će dame daj šta će gospoda.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/matea_peric.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Bruno 'Medo'",
+    "lastName": "Sandrić",
+    "quote": "A sad napraviti ono drugo za ono drugo.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/bruno_sandric.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Šiprak",
+    "quote": "To nisam ja, to je moj pajser.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/laura_siprak.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Krešimir",
+    "lastName": "Vlahov",
+    "quote": "Bilo kuda, bušilica svuda.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/kresimir_vlahov.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Igor",
+    "lastName": "Vukas",
+    "quote": "That's what. - She.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/tehnicka/igor_vukas.jpg",
+    "anchorHolder": ""
+  }
+]

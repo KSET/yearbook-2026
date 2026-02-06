@@ -1,0 +1,234 @@
+[
+  {
+    "firstName": "Foto",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/foto_grupna.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Tajana",
+    "lastName": "Barac",
+    "quote": "Not all drunks can drive.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/tajana_barac.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Benc",
+    "quote": "Kaj gledaš majmune?!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/helena_benc.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Donna Luisa",
+    "lastName": "Del Bianco",
+    "quote": "Šta ti uzmem papuče?",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/luisa_del_bianco.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Kristina 'Kike'",
+    "lastName": "Delić",
+    "quote": "Napravi mi sina pod svetlima kasina.",
+    "mostLikely": "Zabrinjavajuća opsesija prema pingvinima.",
+    "photo": "/static/photos/2016/foto/kristina_delic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Antonia",
+    "lastName": "Drezga",
+    "quote": "I hope I didn't brain my damage.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/antonia_drezga.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Đerek",
+    "quote": "Drži kontrolu nad svojim vremenom!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/ivan_djerek.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Krešimir 'Frigi'",
+    "lastName": "Friganović",
+    "quote": "Mislim da su klinci previše lijeni, pretili i da jedu previše čipsa. Puno drkaju po tastaturama, trebali bi više brijati po ulici, organizirati skupove, ako treba potući se sa policijom, pokazati silu i snagu. Međutim, sve se svodi na to da imaju 300 prijatelja na fejsu. Mladež je otišla u tri pičke materine.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/kresimir_friganovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Darjan",
+    "lastName": "Grilec",
+    "quote": "Faca ti je citat.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/darjan_grilec.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Havaić",
+    "quote": "You don't mess with the Zohan",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/marija_havaic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Petra",
+    "lastName": "Kaić",
+    "quote": "Go with the flow.",
+    "mostLikely": "Najvjerojatnije ćete ju uvijek vidjeti s mobitelom u ruci kako visi na Facebooku.",
+    "photo": "/static/photos/2016/foto/petra_kaic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Kocijan",
+    "quote": "Why spiders? Why couldn't it be 'Follow the butterflies?' ",
+    "mostLikely": "Najvjerojatnije će umrijeti od srčanog udara.",
+    "photo": "/static/photos/2016/foto/maja_kocijan.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Lucija 'Vilica'",
+    "lastName": "Kolarić",
+    "quote": "Ja sam tu biciklom.",
+    "mostLikely": "Najvjerojatnije joj prekasno šaljete loše pripreme za tisak.",
+    "photo": "/static/photos/2016/foto/lucija_kolaric.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Matej",
+    "lastName": "Krpan",
+    "quote": "Oko za oko, pasta za zube.",
+    "mostLikely": "Genije i čudo prirode.",
+    "photo": "/static/photos/2016/foto/matej_krpan.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Lucija 'Joška'",
+    "lastName": "Lokas",
+    "quote": "Hobiji: fotografija i škakljanje",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/lucija_lokas.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Valerija",
+    "lastName": "Ljubić",
+    "quote": "Tko se boji vuka još?",
+    "mostLikely": "Najmlađa kumica s placa ikad!",
+    "photo": "/static/photos/2016/foto/valerija_ljubic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Deborah",
+    "lastName": "Mikelić",
+    "quote": "In my life why do I smile at people who I'd much rather kick in the eye.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/deborah_mikelic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Katarina 'Kejt'",
+    "lastName": "Osmakčić",
+    "quote": "Čovjek je zbroj vlastitih nesreća.",
+    "mostLikely": "KSET-ova Hermiona.",
+    "photo": "/static/photos/2016/foto/katarina_osmakcic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "David Ivan",
+    "lastName": "Oštrić",
+    "quote": "Less thinking more drinking :)",
+    "mostLikely": "Najvjerojatnije najpozitivnija osoba ikad!",
+    "photo": "/static/photos/2016/foto/david_ivan_ostric.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Radmanić",
+    "quote": "Spavam na koncertima.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/andrea_radmanic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Reljanović",
+    "quote": "Tko visoko leti, nisko pada.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/marta_reljanovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Roglić",
+    "quote": "Row, row fight the power!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/matija_roglic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Karlo",
+    "lastName": "Stipić",
+    "quote": "Krepat ma ne molat!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/karlo_stipic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Josipa 'Jopa'",
+    "lastName": "Vragolov",
+    "quote": "Evo, pustila sam kosu.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/josipa_vragolov.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Vukasović",
+    "quote": "There, there, Simba...",
+    "mostLikely": "Najvjerojatnije će se udati u disko.",
+    "photo": "/static/photos/2016/foto/ana_vukasovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ljiljana",
+    "lastName": "Vukmanovic",
+    "quote": "Još uvijek nemam inspiraciju",
+    "mostLikely": "Službena zubarica KSET-a.",
+    "photo": "/static/photos/2016/foto/ljiljana_vukmanovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Martina",
+    "lastName": "Vuković",
+    "quote": "You can't spell fart without art.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/martina_vukovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Vunderl",
+    "quote": "Sve je u redu. Ne, ne, ne, sve je u redu.",
+    "mostLikely": "Najvjerojatnije vam je jednom duboko uzdahnuo jer ste ga pitali nešto očito ili rekli nešto glupo.",
+    "photo": "/static/photos/2016/foto/bruno_vunderl.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Tvrtko",
+    "lastName": "Zadro",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/foto/tvrtko_zadro.jpg",
+    "anchorHolder": ""
+  }
+]

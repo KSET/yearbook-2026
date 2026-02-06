@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "Nikola",
+    "lastName": "Renka",
+    "quote": "It's Britney bitch",
+    "mostLikely": "Brat moj",
+    "photo": "/static/photos/2022/dramska/Nikola_Renka.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Dramska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/A.JPG",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Hrvatin",
+    "quote": "Idem doma nahraniti mačku",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/Ana_Hrvatin.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Ena",
+    "lastName": "Džanko",
+    "quote": "Reci šta je bilo neću ti ništa",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/Ena_Dzanko.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Filip Marko \"FMS\"",
+    "lastName": "Srdić",
+    "quote": "Ja rakiju i đevojku majko obadvoje volim podjednako",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/Filip_Marko_Srdic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Fran",
+    "lastName": "Čehaić",
+    "quote": "And all that Queen",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/Fran_Cehaic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Sokolaj",
+    "quote": "In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/Iva_Sokolaj.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Izidora",
+    "lastName": "Horvat",
+    "quote": "Kok(s)etiranje s vragom",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/Izidora_Horvat.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Josipa",
+    "lastName": "Ivezić",
+    "quote": "Insert citat here...",
+    "mostLikely": "BLM",
+    "photo": "/static/photos/2022/dramska/Josipa_Ivezic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Sunčan",
+    "lastName": "Vojvodić",
+    "quote": "Je l' ti nešto miriši na kloroform?",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/Suncan_Vojvodic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  }
+]

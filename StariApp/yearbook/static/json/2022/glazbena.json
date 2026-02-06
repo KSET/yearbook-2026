@@ -1,0 +1,154 @@
+[
+  {
+    "firstName": "Glazbena",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/A.JPG",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Mia Izabela",
+    "lastName": "Stražanac",
+    "quote": "Drum roll please",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Mia_Izabela_Strazanac.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Miljavac",
+    "quote": "Plaky tugy, noga mi je strgy",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Ana_Miljavac.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Andrija",
+    "lastName": "Arbanasić",
+    "quote": "Ne slušaj, majko šta ti pričaju za mene",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Andrija_Arbanasic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Antica",
+    "lastName": "Župić",
+    "quote": "Reci mi teta konobarica još jednom.",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Antica_Zupic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Antonela",
+    "lastName": "Požarina",
+    "quote": "Pozz iz Zadra",
+    "mostLikely": "Vaš Salt Bae",
+    "photo": "/static/photos/2022/glazbena/Antonela_Pozarina.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Antonio \"LAKI\"",
+    "lastName": "Lakoš",
+    "quote": "\"mijau, mijau\"",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Antonio_Lakos.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Fran",
+    "lastName": "Halambek",
+    "quote": "Treba mi piva",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Fran_Halambek.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Ivan \"Truba\"",
+    "lastName": "Trubić",
+    "quote": "Tako su staaaaaari raaaaadili",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Ivan_Trubic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Juraj",
+    "lastName": "Markulin",
+    "quote": "Ja sam rasta, grupa je Krankšvasta, doš'o sam u Motovun, čuo sam da je pizda masna",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Juraj_Markulin.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Lucija \"Luce\"",
+    "lastName": "Kordić",
+    "quote": "Nema me više na šanku",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Lucija_Kordic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Buljan",
+    "quote": "Ponekad ti čekaš vibe, ponekad vibe checka tebe",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Luka_Buljan.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Luka \"C\"",
+    "lastName": "Mandić",
+    "quote": "Mene ti baš i nije briga",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Luka_Mandic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Lui",
+    "quote": "Toni je citat",
+    "mostLikely": "Gastarbajter",
+    "photo": "/static/photos/2022/glazbena/Mia_Lui.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Miljana",
+    "lastName": "Stojčić",
+    "quote": "我知道你很辛苦",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Miljana_Stojcic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Kaužljar",
+    "quote": "Mene ovo drma?!",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Nikola_Kauzljar.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Sočec",
+    "quote": "Thoughtcrime connoisseur",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Nikola_Socec.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Patrik",
+    "lastName": "Klepić",
+    "quote": "Danju radim ja na crno, a noću na bijelo",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Patrik_Klepic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Vid",
+    "lastName": "Marinović",
+    "quote": "'uewwueuuuughhhhhkurac",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/glazbena/Vid_Marinovic.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  }
+]

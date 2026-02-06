@@ -1,0 +1,90 @@
+[
+  {
+    "firstName": "Tehnička",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/A.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Marin",
+    "lastName": "Erny",
+    "quote": "45° 28' 54'' N, 14° 17' 0.7'' E",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Marin_Erny.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Antonio \"Čiča\"",
+    "lastName": "Čičak",
+    "quote": "Tko se sa Kupresa napije vode, taj se njemu uvijek rado vraća!",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Antonio_Cicak.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Dominik \"Lacrosse\"",
+    "lastName": "Erić",
+    "quote": "Ja i moja palica",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Dominik_Eric.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Dorian",
+    "lastName": "Erić",
+    "quote": "Samo reci do kad ti treba",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Dorian_Eric.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Drago",
+    "lastName": "Anić-Ivičić",
+    "quote": "Znaš bušilicu!",
+    "mostLikely": "Zna Ivu Farinoga",
+    "photo": "/static/photos/2022/tech/Drago.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Dunja",
+    "lastName": "Šutalo",
+    "quote": "Dođi sebi dok imaš kome!",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Dunja_Sutalo.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Lovro",
+    "lastName": "Kovačić",
+    "quote": "Ja i njegova bivša (palica)",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Lovro_Kovacic.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Luka \"Koka\"",
+    "lastName": "Kokić",
+    "quote": "Stežem kaiš, udarila kriza, a oni se, mili Bože, guše od deviza",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Luka_Kokic.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Petra",
+    "lastName": "Malezija",
+    "quote": "Peri kistove",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Petra_Malezija.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Vedran",
+    "lastName": "Jurlina",
+    "quote": "If it sounds like bacon you are doing it right if smells like bacon you are probably on fire",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/tech/Vedran_Jurlina.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  }
+]

@@ -1,0 +1,88 @@
+<head>
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" href="/static/css/members.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="/">KSET Yearbook</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse navbar-dark" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Početna stranica<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Generacije
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            {% for year in years %}
+          <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">{{ year }}</a>
+            <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="/{{ year }}/bike">Bike</a></li>
+                  <li><a class="dropdown-item" href="/{{ year }}/disco">Disco</a></li>
+                    <li><a class="dropdown-item" href="/{{ year }}/dramska">Dramska</a></li>
+                  <li><a class="dropdown-item" href="/{{ year }}/foto">Fotoooooooo</a></li>
+                    <li><a class="dropdown-item" href="/{{ year }}/glazbena">Glazbena</a></li>
+                  <li><a class="dropdown-item" href="/{{ year }}/pijandure">Pijandure</a></li>
+                    <li><a class="dropdown-item" href="/{{ year }}/racunarska">Računarska</a></li>
+                  <li><a class="dropdown-item" href="/{{ year }}/tehnicka">Tehnička</a></li>
+                    <li><a class="dropdown-item" href="/{{ year }}/video">Video</a></li>
+            </ul>
+          </li>
+            {% endfor %}
+            </ul>
+          </li>
+        {% if g.year is defined %}
+        <li class="nav-item">
+        <a class="nav-link disabled" href="#">Generacija {{ g.year }}</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/bike">Bike</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/disco">Disco</a>
+      </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/dramska">Dramska</a>
+      </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/foto">Foto</a>
+      </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/glazbena">Glazbena</a>
+      </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/pijandure">Pijandure</a>
+      </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/racunarska">Računarska</a>
+      </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/tehnicka">Tehnička</a>
+      </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/{{ g.year }}/video">Video</a>
+      </li>
+    {% endif %}
+        </ul>
+  <div class="navbar-nav">
+      <span class="navbar-item mr-sm-2" style="color: white">&copy; Fotosekcija KSET</span>
+    </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/js/submenu.js"></script>
+{% block content %}
+{% endblock %}
+</body>

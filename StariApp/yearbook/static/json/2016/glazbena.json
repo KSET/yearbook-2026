@@ -1,0 +1,178 @@
+[
+  {
+    "firstName": "Glazbena",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/glazbena_grupna.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Abramušić",
+    "quote": "Mogu ja to vama poslat?",
+    "mostLikely": "Najvjerojatnije izgleda kao lik koji bi podsjetio profesora da je zaboravio zadati domaću zadaću.",
+    "photo": "/static/photos/2016/glazbena/luka_abramusic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dominik",
+    "lastName": "Bačić",
+    "quote": "Nemoj mislit', moraš znat'!",
+    "mostLikely": "Najvjerojatnije izgleda kao model u katalogu za teen kolekciju jesen/zima.",
+    "photo": "/static/photos/2016/glazbena/dominik_bacic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Matej",
+    "lastName": "Balun",
+    "quote": "Dotako sam dno života.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/matej_balun.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Nadina",
+    "lastName": "Biljanović",
+    "quote": "You know you love me. XOXO",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/nadina_biljanovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marina",
+    "lastName": "Borac",
+    "quote": "Volim kad mi je lijepo, a ne volim kad mi je ružno.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/marina_borac.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Tomislav",
+    "lastName": "Čikara",
+    "quote": "Čikara nikad neće bit pepeljara.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/tomislav_cikara.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ivan 'Donkec'",
+    "lastName": "Dominić",
+    "quote": "Pare spajam s parama, pare su mi sijamske. Sfrčem ih kad skijam se i strpam sve u sinuse.",
+    "mostLikely": "Apsolutni pobjednik Yearbooka.",
+    "photo": "/static/photos/2016/glazbena/ivan_dominic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Franić",
+    "quote": "Đe je preša?",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/paula_franic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Iwo",
+    "lastName": "Klarić",
+    "quote": "Tko gubi dobitak, dobija gubitak.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/iwo_klaric.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Klier",
+    "quote": "HAVE YOU SEEN MY BEAR TIBBERS?!??!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/barbara_klier.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Domagoj",
+    "lastName": "Latečki",
+    "quote": "Kad narastem bit ću televizor - kad narastem bit ću TV!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/domagoj_latecki.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Mamuča",
+    "quote": "Majko gusta!",
+    "mostLikely": "Rekli smo mu da zamisli da mu je program u plusu.",
+    "photo": "/static/photos/2016/glazbena/matija_mamuca.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Novković",
+    "quote": "SAY THAT TO MY FACE FUCKER NOT ONLINE AND SEE WHAT HAPPENS!",
+    "mostLikely": "Meanwhile, negdje jedan penzioner po Zagrebu traži svoj baloner.",
+    "photo": "/static/photos/2016/glazbena/bojan_novkovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Paj",
+    "quote": "Prodajem akumulator. Jeftino. Zvati iza 4, tražiti Miljenku. 095 313 313",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/marko_paj.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Mateo 'Mici'",
+    "lastName": "Patekar",
+    "quote": "Šareni s bijelim.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/mateo_patekar.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Premec",
+    "quote": "Brate, ja sam iz Mi'oljca. I nisam otac.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/anton_premec.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Filip 'Rade'",
+    "lastName": "Radaković",
+    "quote": "Rade ne radi to što Rade radi zbog Radeta, Rade radi to što Rade radu jer je on Rade - F.M. 2014.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/filip_radakovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Sičić",
+    "quote": "Šaljem mailom.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/ivan_sicic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Uglješa 'Ugo'",
+    "lastName": "Stegnjaić",
+    "quote": "Vidio sam svjeta i još mi se šeta!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/ugljesa_stegnjaic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ivan 'Truba'",
+    "lastName": "Trubić",
+    "quote": "Ti treba što u monitor!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/ivan_trubic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Izidor 'Izzy'",
+    "lastName": "Vasilić",
+    "quote": "Sve bi ja to opremio!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/glazbena/izidor_vasilic.jpg",
+    "anchorHolder": ""
+  }
+]

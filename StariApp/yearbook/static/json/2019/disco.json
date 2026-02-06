@@ -1,0 +1,236 @@
+[
+  {
+    "firstName": "Disco",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/disco_grupna.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Dajana",
+    "lastName": "Debeljak",
+    "quote": "Nije život jedna flaša",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/dajana_debeljak.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Nino",
+    "lastName": "Dragičević",
+    "quote": "Subscribe 2 Pewdiepie",
+    "mostLikely": "T-gay",
+    "photo": "/static/photos/2019/disco/nino_dragicevic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Geršak",
+    "quote": "Je suis Čarli",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/nikola_gersak.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Habdelić",
+    "quote": "Rhythm of life",
+    "mostLikely": "AAAAaaaAAAaaa",
+    "photo": "/static/photos/2019/disco/ana_habdelic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Habek",
+    "quote": "Nije život jedna žemlja",
+    "mostLikely": "Ich Habek keine Ahnung",
+    "photo": "/static/photos/2019/disco/martin_habek.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Lovro",
+    "lastName": "Ivančević",
+    "quote": "Why tf is Mišo not on Brucošijada",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/lovro_ivancevic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Kostelac",
+    "quote": "Haha",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/anja_kostelac.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Paolo tf",
+    "lastName": "Lanča",
+    "quote": "Jesmo gotovi, se mogu napokon ići objesiti?",
+    "mostLikely": "Najvjerojatnije će te ga sresti kako visi po klubu",
+    "photo": "/static/photos/2019/disco/paolo_lanca.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Lovrić",
+    "quote": "Sve je to samo kemija",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/ivan_lovric.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Lučić",
+    "quote": "Uže ću ti sve, ma užeeee ću ti sveeee",
+    "mostLikely": "Užesna fora",
+    "photo": "/static/photos/2019/disco/marta_lucic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Markulin",
+    "quote": "Stay noided",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/helena_markulin.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Roko",
+    "lastName": "Miličić",
+    "quote": "Bolje nešto od nečega nego ništa od ničega",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/roko_mincic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Miter",
+    "quote": "This is my safety",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/marko_miter.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Dorian",
+    "lastName": "Možnik",
+    "quote": "Beer pong igrač na najam",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/dorian_moznik.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Ivor",
+    "lastName": "Muftić",
+    "quote": "Bolji brat",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/ivor_muftic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Mak",
+    "lastName": "Muftić",
+    "quote": "Bolji brat",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/mak_muftic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Leonarda (DJ Boomer)",
+    "lastName": "Novoselić",
+    "quote": "Bolje da ima, nego ne",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/leonarda_novoselic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Prpić",
+    "quote": "Sve je dildo ako si dovoljno hrabar",
+    "mostLikely": "Target acquired!",
+    "photo": "/static/photos/2019/disco/nikola_prpic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Ptiček",
+    "quote": "Vrti mi se",
+    "mostLikely": "Bolje Ptiček u ruci nego ne",
+    "photo": "/static/photos/2019/disco/filip_pticek.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Ratković",
+    "quote": "Najbolji party je onaj u tvojoj glavi",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/matija_ratkovic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Eugen",
+    "lastName": "Rudić",
+    "quote": "Žuja > Karlovačko",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/eugen_rudic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Dražen",
+    "lastName": "Šarec",
+    "quote": "*oneliner*",
+    "mostLikely": "Vjerojatno ima više godina nego kila",
+    "photo": "/static/photos/2019/disco/drazen_sarec.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Dorian",
+    "lastName": "Šegović",
+    "quote": "Kony 2012",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/dorian_segovic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Ivona",
+    "lastName": "Škorjanc",
+    "quote": "Trebam malo odspavati",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/ivona_skorjanc.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Špoljar",
+    "quote": "KSETo gajba",
+    "mostLikely": "Eeee moje dijeteee, KSETo je pobijedjelo",
+    "photo": "/static/photos/2019/disco/antonio_spoljar.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Šuste",
+    "quote": "",
+    "mostLikely": "E Šus, jedi govna Šus",
+    "photo": "/static/photos/2019/disco/filip_suste.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Mislav",
+    "lastName": "Vuković",
+    "quote": "Mir vama!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/disco/mislav_vukovic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Tino Žino",
+    "lastName": "Zhineaux Žinić",
+    "quote": "Nemam tehniku al sam zato spor",
+    "mostLikely": "Vjerojatno je vidio guzicu u prolazu",
+    "photo": "/static/photos/2019/disco/valentino_zinic.jpg",
+    "anchorHolder": "disco-sekcija"
+  }
+]
+
+

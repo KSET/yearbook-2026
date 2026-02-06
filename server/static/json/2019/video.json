@@ -1,0 +1,114 @@
+[
+  {
+    "firstName": "Video",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/video_grupna.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Matea",
+    "lastName": "Čotić",
+    "quote": "Ala koji lipi oblak",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/matea_cotic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Erdeljac",
+    "quote": "Who you tryin' to get crazy with, Ese? Don't you know i'm LOCO!?",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/luka_erdeljac.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Jelena",
+    "lastName": "Janjić",
+    "quote": "Kidney function is not a right, it's a privilege",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/jelena_janjic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Eda",
+    "lastName": "Jovičić",
+    "quote": "REZ! Gotova sa šefovanjem. Idemo snimati!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/eda_jovicic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Josip",
+    "lastName": "Kalafatić",
+    "quote": "Kad narastem bit ću televizor kad narastem bit ću TV",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/josip_kalafatic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Mikašek",
+    "quote": "To nije kraj priče!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/barbara_mikasek.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Patrik",
+    "lastName": "Pažur",
+    "quote": "NEOdoljiv",
+    "mostLikely": "Patrix reloaded",
+    "photo": "/static/photos/2019/video/patrik_pazur.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Radanović",
+    "quote": "Imao sam ja i boljih ideja",
+    "mostLikely": "Sin Monopoly Guya i Abrahama Lincolna",
+    "photo": "/static/photos/2019/video/jan_radanovic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Ivan 'Lega'",
+    "lastName": "Sičić",
+    "quote": "Video killed a Glazbena star - L.E",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/ivan_sicic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Sičić",
+    "quote": "It's the lidl things",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/sara_sicic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Težak",
+    "quote": "Svijet je ravna ploča!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/dora_tezak.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Josipa 'Jope'",
+    "lastName": "Vladušić",
+    "quote": "Oraspoložite me nekon šalon",
+    "mostLikely": "Hajduk u ligi prvaka.",
+    "photo": "/static/photos/2019/video/josipa_vladusic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Lucija",
+    "lastName": "Vozab",
+    "quote": "Lucija? Polucija!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/video/lucija_vozab.jpg",
+    "anchorHolder": "video-sekcija"
+  }
+]

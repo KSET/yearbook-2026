@@ -1,0 +1,46 @@
+{% extends "navbar.html" %}
+{% block content %}
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+
+    <title>{{ section|upper }} SEKCIJA</title>
+  </head>
+  <body>
+    <div id="carouselExampleIndicators" class="carousel slide bg-dark" data-ride="carousel" data-interval="6340">
+      <ol class="carousel-indicators">
+          {% for i in range(members_data|length) %}
+        <li data-target="#carouselExampleIndicators" data-slide-to={{ i }} class="active"></li>
+          {% endfor %}
+      </ol>
+      <div class="carousel-inner">
+          {% for member in members_data %}
+              {% if member == members_data[0] %}
+                <div class="carousel-item active">
+              {% else %}
+                <div class="carousel-item">
+              {% endif %}
+              <img class="member" src='{{ member["photo"] }}' alt="First slide">
+                <div class="carousel-caption d-none d-md-block member-caption">
+                    <h2>{{ member['firstName'] }} {{ member['lastName'] }}</h2>
+                    {% if member['quote'] != "" %}
+                        <h4>"{{ member['quote'] }}"</h4>
+                    {% endif %}
+                    <h5>{{ member['mostLikely'] }}</h5>
+                </div>
+            </div>
+          {% endfor %}
+      </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+    </div>
+</body>
+{% endblock content %}

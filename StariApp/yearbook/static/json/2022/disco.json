@@ -1,0 +1,98 @@
+[
+  {
+    "firstName": "Disko",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/A.JPG",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Antonio \"Toni\"",
+    "lastName": "Damjanović",
+    "quote": "\"Disko gas\"\nbudući šef sekcije",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Antonio_Damjanovic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Amar \"Zaga\"",
+    "lastName": "Zagorčić",
+    "quote": "mp3 plejer",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Amar_Zagorcic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Grčević",
+    "quote": "Ličanka br.1",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Ana_Grcevic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Andro",
+    "lastName": "Kosanović",
+    "quote": "\"I got with them mother-fuckers though - showed them niggaz who's gangsta. Ryder, nigga!\"\n-Ryder, nigga.",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Andro_Kosanovic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Čogelja",
+    "quote": "I don't miss, except padeže",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Antonio_Cogelja.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Antonio \"Špoki\"",
+    "lastName": "Špoljar",
+    "quote": "I see you're a man of culture as well.",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Antonio_Spoljar.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Bartol",
+    "lastName": "Kosović",
+    "quote": "Mala 'oš se povezat'?",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Bartol_Kosovic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Borna",
+    "lastName": "Nikolić",
+    "quote": "Ako zagriješ čokoladno mlijeko, je l' to onda čokotoplo mlijeko?",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Borna_Nikolic.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Lucija",
+    "lastName": "Čorak",
+    "quote": "Ličanka br. 0.25",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Lucija_Corak.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Luka \"Penjo\"",
+    "lastName": "Penjin",
+    "quote": "Sad ću svima znati imena",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Luka_Penjin.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Paolo \"Lanča\"",
+    "lastName": "Lanča",
+    "quote": "10 min nakon što si gotov s diplomskim",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/disko/Paolo_Lanca.jpg",
+    "anchorHolder": "disco-sekcija"
+  }
+]

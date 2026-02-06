@@ -1,0 +1,98 @@
+[
+  {
+    "firstName": "Video",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/A.JPG",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Patrik",
+    "lastName": "Pažur",
+    "quote": "Bolje sam, nego slabo kompanjan",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Patrik_Pazur.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Ivan \"Siki\"",
+    "lastName": "Sičić",
+    "quote": "Da ostanem lijep",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Ivan_Sicic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Karlo \"Sintić\"",
+    "lastName": "Sintić",
+    "quote": "Što na kafu zoveš mene kad nemaš samlevene",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Karlo_Sintic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Leonarda",
+    "lastName": "Novoselić",
+    "quote": "Nema odmora dok traje obnova",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Leonarda_Novoselic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Lovro",
+    "lastName": "Raguž",
+    "quote": "Podržavati lokalno!",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Lovro_Raguz.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Mrše",
+    "quote": "\"You don't try to photograph the reality, you try to photograph the photograph of the reality.\" - Stanley Kubrick",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Luka_Mrse.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Marijan",
+    "lastName": "Balić",
+    "quote": "Čemu pjesnici u oskudno vrijeme",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Marijan_Balic.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Martina",
+    "lastName": "Makek",
+    "quote": "Presmiješno. Al' grozno. Al' predobro. Al' strašno.",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Martina_Makek.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Rambrot",
+    "quote": "Doslovno cringe",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Paula_Rambrot.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Finderle",
+    "quote": "\"\"You miss 100% of the shots you don't take. -Wayne Gretzky\" - Michael Scott\" - Ruben Finderle",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Ruben_Finderle.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Sičić",
+    "quote": "x_x",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/video/Sara_Sicic.jpg",
+    "anchorHolder": "video-sekcija"
+  }
+]
