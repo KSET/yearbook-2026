@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 interface Member {
   firstName: string;
@@ -17,9 +17,7 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [flippedCards, setFlippedCards] = useState<Set<number>>(new Set());
 
-
-
-  // FUNKCIONALNOST ZA 2025. GODINU - FLIP
+  // ------------------ 2025 FLIP MODE ------------------
   if (year === "2025") {
     const toggleFlip = (index: number) => {
       setFlippedCards(prev => {
@@ -44,7 +42,7 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
             <div
               className={`flip-card-inner ${flippedCards.has(idx) ? 'flipped' : ''}`}
             >
-              {/* Prednja akd bude */}
+              {/* Front */}
               <div className="flip-front">
                 <img
                   src={`http://localhost:5000${member.photo}`}
@@ -52,7 +50,7 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
                 />
               </div>
 
-              {/* Forma ona */}
+              {/* Back */}
               <div className="flip-back">
                 <h3>{member.firstName} {member.lastName}</h3>
                 {member.quote && (
@@ -69,8 +67,8 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
     );
   }
 
-  // CAROUSEL
-  const currentMember = members[currentIndex];
+  // ------------------ CAROUSEL MODE ------------------
+  //const currentMember = members[currentIndex];
 
   const handlePrevious = () => {
     setCurrentIndex((prevIndex) => (prevIndex === 0 ? members.length - 1 : prevIndex - 1));
@@ -84,9 +82,27 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
     setCurrentIndex(index);
   };
 
+  // TIPKOVNICA LOOP CAROUSEL WOOO
+useEffect(() => {
+  if (year === "2025") return;
+
+  const handleKeyDown = (event: KeyboardEvent) => {
+    if (event.key === "ArrowLeft") {
+      setCurrentIndex(prev => (prev === 0 ? members.length - 1 : prev - 1));
+    } else if (event.key === "ArrowRight") {
+      setCurrentIndex(prev => (prev === members.length - 1 ? 0 : prev + 1));
+    }
+  };
+
+  window.addEventListener("keydown", handleKeyDown);
+
+  return () => window.removeEventListener("keydown", handleKeyDown);
+}, [members.length, year]);
+
+
   return (
     <div className="carousel-slide bg-dark">
-      {/* Indikator */}
+      {/* Indicators */}
       <ol className="carousel-indicators">
         {members.map((_, index) => (
           <li
@@ -97,7 +113,7 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
         ))}
       </ol>
 
-      {/* Carousel traka */}
+      {/* Carousel items */}
       <div className="carousel-inner">
         {members.map((member, index) => (
           <div
@@ -111,18 +127,14 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
             />
             <div className="carousel-caption d-none d-md-block member-caption">
               <h2>{member.firstName} {member.lastName}</h2>
-              {member.quote && (
-                <h4>"{member.quote}"</h4>
-              )}
-              {member.mostLikely && (
-                <h5>{member.mostLikely}</h5>
-              )}
+              {member.quote && <h4>"{member.quote}"</h4>}
+              {member.mostLikely && <h5>{member.mostLikely}</h5>}
             </div>
           </div>
         ))}
       </div>
 
-      {/* Kontrola mjenjanje lijevo desno */}
+      {/* Controls */}
       <button
         className="carousel-control-prev"
         onClick={handlePrevious}
