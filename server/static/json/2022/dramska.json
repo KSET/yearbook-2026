@@ -1,18 +1,18 @@
 [
+    {
+    "firstName": "Dramska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/dramska/A.JPG",
+    "anchorHolder": "dramska-sekcija"
+  },
   {
     "firstName": "Nikola",
     "lastName": "Renka",
     "quote": "It's Britney bitch",
     "mostLikely": "Brat moj",
     "photo": "/static/photos/2022/dramska/Nikola_Renka.jpg",
-    "anchorHolder": "dramska-sekcija"
-  },
-  {
-    "firstName": "Dramska",
-    "lastName": "sekcija",
-    "quote": "",
-    "mostLikely": "",
-    "photo": "/static/photos/2022/dramska/A.JPG",
     "anchorHolder": "dramska-sekcija"
   },
   {
