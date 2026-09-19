@@ -1,0 +1,42 @@
+{
+  "years": [
+    "2016",
+    "2019",
+    "2022"
+  ],
+  "sections": {
+    "2016": [
+      "bike",
+      "disco",
+      "dramska",
+      "foto",
+      "glazbena",
+      "pijandure",
+      "racunarska",
+      "tehnicka",
+      "video"
+    ],
+    "2019": [
+      "bike",
+      "disco",
+      "dramska",
+      "foto",
+      "glazbena",
+      "pijandure",
+      "racunarska",
+      "tehnicka",
+      "video"
+    ],
+    "2022": [
+      "bike",
+      "disco",
+      "dramska",
+      "foto",
+      "glazbena",
+      "pi",
+      "racunarska",
+      "tech",
+      "video"
+    ]
+  }
+}

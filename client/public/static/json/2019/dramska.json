@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "Dramska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/dramska_grupna.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Ena",
+    "lastName": "Džanko",
+    "quote": "Burek od čega!?",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/ena_dzanko.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Nikola Filip",
+    "lastName": "Fijan",
+    "quote": "Di ste mi stavili sekciju?",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/filip_fijan.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Hrvatin",
+    "quote": "Medusa, the snake-haired gorgon",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/ana_hrvatin.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Kušen",
+    "quote": "Straight outta dramska",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/benjamin_kusen.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Maksimović",
+    "quote": "I od snova žut ten",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/ines_maksimovic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Vana",
+    "lastName": "Mladinić",
+    "quote": "Pljačkan turiste i kad nije lito",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/vana_mladinic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Slović",
+    "lastName": "Marija Magdalena",
+    "quote": "aaaaaaaAAAAAAAAAaaaaa",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/magdalena_slovic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Karlo",
+    "lastName": "Stipić",
+    "quote": "Sve je kurac, anche pička",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/karlo_stipic.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Zlatar",
+    "quote": "Nije zlato sve što sja",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/dramska/ivan_zlatar.jpg",
+    "anchorHolder": "dramska-sekcija"
+  }
+]

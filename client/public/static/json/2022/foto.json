@@ -1,0 +1,218 @@
+[
+  {
+    "firstName": "Foto",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/A.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Tamara",
+    "lastName": "Ćorić",
+    "quote": "Nek' me netko ubije mojim laptopom. Pusa, bok.",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Tamara_Coric.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Madunić",
+    "quote": "Obitelj je opijum za narod",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Ana_Madunic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Ana Marija",
+    "lastName": "Devčić",
+    "quote": "Ne spuštaj na prozor roletne, osmehni se svakom' 'ko te sretne",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Ana_Marija_Devcic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Dragana",
+    "lastName": "Raič",
+    "quote": "Zovni me, probudit ću se",
+    "mostLikely": "Neće se probuditi\nTamara Foto (44 propuštena poziva)",
+    "photo": "/static/photos/2022/foto/Dragana_Raic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Đurđa",
+    "lastName": "",
+    "quote": "Maći",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Durda.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Ela",
+    "lastName": "Kumer",
+    "quote": "Splavovi su Meka i Medina, samo nek' se okreće turbina",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Ela_Kumer.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Hana",
+    "lastName": "Bilić",
+    "quote": "Mali znak pažnje",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Hana_Bilic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Đerek",
+    "quote": "Pa-pa",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Ivan_Djerek.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Ivana",
+    "lastName": "Štuka",
+    "quote": "Daisy nemoj se pokakati na stejđ pliz molim te",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Ivana_Stuka.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Jana",
+    "lastName": "Anić",
+    "quote": "'Ajmo sad u provod nas dve, gas u najveću brzinu",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Jana_Anic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Katarina",
+    "lastName": "Pavić",
+    "quote": "'Ne ukradi tuđi indentintent",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Katarina_Pavic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Katarina \"Dvatarina\"",
+    "lastName": "Pešić",
+    "quote": "Hajmo na noge, hajmo, svi ruke gore",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Katarina_Pesic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Lana",
+    "lastName": "Nežmah",
+    "quote": "Bled",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Lana_Nezmah.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Leonarda",
+    "lastName": "Bojka",
+    "quote": "Omiljena boja mi je plava",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Leonarda_Bojka.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Maja \"Zmaja\"",
+    "lastName": "Ivošević",
+    "quote": "kaje",
+    "mostLikely": "Nepostojano j",
+    "photo": "/static/photos/2022/foto/Maja_Ivosevic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Radanović",
+    "quote": "Je l' može doć moj pas?",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Marta_Radanovic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Martina",
+    "lastName": "Šola",
+    "quote": "Tu ne ide ni'ko, svi se zvijeri paze",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Martina_Sola.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Matej",
+    "lastName": "Testen",
+    "quote": "Space is wavy, follow from it, analyze it spectrally. The specter in the spectrum on inspection is an entity.\"",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Matej_Testen.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Roglić",
+    "quote": "Život je bol, Fotoooooooo je lijek",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Matija_Roglic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Mihael \"Mimi\"",
+    "lastName": "Budeč",
+    "quote": "Nije sapun da se potroši",
+    "mostLikely": "Izdao Nokiju; https://www.youtube.com/watch?v=UpdOwksB4AA",
+    "photo": "/static/photos/2022/foto/Mihael_Budec.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Radelić",
+    "quote": "Zašto baš ti moja ikono sa zida, sahrani me, tako izdade bez stida",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Nikola_Radelic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Karaman",
+    "quote": "Šećeraš, asmitičar, kamen u bubrezu, kičma, srce mi je na ivici",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Nina_Karaman.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Fanton",
+    "quote": "U fokusu",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Paula_Fanton.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Sanja",
+    "lastName": "Junaković",
+    "quote": "Znam te greško dok si dobra ideja bila",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Sanja_Junakovic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Vedran",
+    "lastName": "Radovanović",
+    "quote": "Kad je na gitaru pukla\nelektrična žica\nshvatili smo obojica\nspas je ćirilica",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/foto/Vedran_Radovanovic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Željka",
+    "lastName": "Baća",
+    "quote": "Sedmi sprat i mrak u stanu, znam da imaš to u planu",
+    "mostLikely": "Ž+D",
+    "photo": "/static/photos/2022/foto/Zeljka_Baca.jpg",
+    "anchorHolder": "foto-sekcija"
+  }
+]

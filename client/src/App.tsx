@@ -12,8 +12,12 @@ interface Member {
   mostLikely?: string;
 }
 
-const SECTIONS_BASE_URL = 'http://localhost:5000/api/yearbook';
-const YEARS_URL = 'http://localhost:5000/api/years';
+const MANIFEST_URL = '/static/manifest.json';
+
+interface Manifest {
+  years: string[];
+  sections: { [key: string]: string[] };
+}
 
 interface GalleryPageProps {
   selectedYear: string | null;
@@ -32,13 +36,17 @@ function GalleryPage({ selectedYear, onYearSelect }: GalleryPageProps) {
 
   useEffect(() => {
     if (year && section) {
-      fetch(`http://localhost:5000/api/yearbook/${year}/${section}`)
-        .then(res => res.json())
+      fetch(`/static/json/${year}/${section}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error(`Section not found: ${year}/${section}`);
+          return res.json();
+        })
         .then(data => {
           setMembers(data);
         })
         .catch(err => {
           console.error(err);
+          setMembers([]);
         });
     }
   }, [year, section]);
@@ -57,9 +65,9 @@ function GalleryPage({ selectedYear, onYearSelect }: GalleryPageProps) {
 function HomePage() {
   return (
     <div className="home-screen">
-      <img 
-        src="http://localhost:5000/static/photos/yearbook-logo.jpg" 
-        alt="KSET Yearbook" 
+      <img
+        src="/static/photos/yearbook-logo.jpg"
+        alt="KSET Yearbook"
         className="main-logo"
       />
     </div>
@@ -71,27 +79,16 @@ function App() {
   const [years, setYears] = useState<string[]>([]);
   const [sections, setSections] = useState<{ [key: string]: string[] }>({});
 
-  // Fetch godine iz foldera
+  // Manifest se generira build/dev skriptom iz public/static/photos, pa ne treba backend
   useEffect(() => {
-    fetch(YEARS_URL)
+    fetch(MANIFEST_URL)
       .then(res => res.json())
-      .then(data => {
-        setYears(data);
-        // Sekcije za godinu jer medija sada postoji i ne mogu hardkodirati :D 
-        data.forEach((year: string) => {
-          fetch(`${SECTIONS_BASE_URL}/${year}/sections`)
-            .then(res => res.json())
-            .then(sectionData => {
-              setSections(prev => ({
-                ...prev,
-                [year]: sectionData
-              }));
-            })
-            .catch(err => console.error(`Error fetching sections for ${year}:`, err));
-        });
+      .then((manifest: Manifest) => {
+        setYears(manifest.years);
+        setSections(manifest.sections);
       })
       .catch(err => {
-        console.error('Error fetching years:', err);
+        console.error('Error fetching manifest:', err);
       });
   }, []);
 

@@ -45,7 +45,7 @@ const Gallery: React.FC<GalleryProps> = ({ members, year }) => {
               {/* Front */}
               <div className="flip-front">
                 <img
-                  src={`http://localhost:5000${member.photo}`}
+                  src={member.photo}
                   alt={`${member.firstName} ${member.lastName}`}
                 />
               </div>
@@ -122,7 +122,7 @@ useEffect(() => {
           >
             <img
               className="member"
-              src={`http://localhost:5000${member.photo}`}
+              src={member.photo}
               alt={`${member.firstName} ${member.lastName}`}
             />
             <div className="carousel-caption d-none d-md-block member-caption">

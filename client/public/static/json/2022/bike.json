@@ -1,0 +1,90 @@
+[
+  {
+    "firstName": "Bike",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/A.JPG",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Ljubičić",
+    "quote": "Bike go brrr",
+    "mostLikely": "Ako ti zapravo bicikl ide brr potraži pomoć",
+    "photo": "/static/photos/2022/bike/Ivan_Ljubicic.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Bakija",
+    "quote": "Ne volim da se kupam.\nNE\nVO\nLIM!",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Ana_Bakija.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Zglavnik",
+    "quote": "Original",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Antonio_Zglavnik.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Josip \"Straža\"",
+    "lastName": "Budimir",
+    "quote": "Nemaš kuje?",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Josip_Budimir.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Greblo",
+    "quote": "Ne pitaj kako znam",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Luka_Greblo.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Purgar",
+    "quote": "bic, bajs, bicikl(a)",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Matija_Purgar.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Mihael",
+    "lastName": "Nosil",
+    "quote": "Motori, motori, motori",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Mihael_Nosil.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Noa",
+    "lastName": "Bertović",
+    "quote": "Nije fer, nije fer, stvarno nije fer, daj mi, Bože, jedan dan da budem Šumaher",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Noa_Bertovic.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Sven",
+    "lastName": "Balint",
+    "quote": "Kaže se paradajz, ne pomidor!",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Sven_Balint.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Polanec",
+    "quote": "Samo dva kotača su nam dovoljna",
+    "mostLikely": "",
+    "photo": "/static/photos/2022/bike/Toni_Polanec.jpg",
+    "anchorHolder": "bike-sekcija"
+  }
+]

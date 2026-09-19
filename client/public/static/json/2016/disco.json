@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "Disco",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/disco_grupna.jpg",
+    "anchorHolder": "disco-sekcija"
+  },
+  {
+    "firstName": "Mathea",
+    "lastName": "Aragović",
+    "quote": "Do kad ovo moramo smislit?",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/mathea_aragovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Babić",
+    "quote": "Treba sam puno piti.",
+    "mostLikely": "Najvjerojatnije je bio klinički mrtav na Brucošijadi.",
+    "photo": "/static/photos/2016/disco/luka_babic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Viktoria",
+    "lastName": "Babić",
+    "quote": "Piše se bez j.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/viktoria_babic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Biliš",
+    "quote": "Devet od deset žena preporučuje Nikolu B.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/nikola_bilis.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Coumbassa",
+    "quote": "Bez ideja",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/stella_coumbassa.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dajana",
+    "lastName": "Debeljak",
+    "quote": "Zabila sem da je slikanje denes...",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/dajana_debeljak.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Lucijan Luka",
+    "lastName": "Hančić",
+    "quote": "Neću bit u depresiji kad nemam sexa ni para.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/lucijan_luka_hancic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Lučić",
+    "quote": "Izvuk'o si ciglu iz temelja ljubavi naše, samo deca ostaše.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/disco/marta_lucic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Mak",
+    "lastName": "Muftić",
+    "quote": "U suštini nisam baš siguran",
+    "mostLikely": "Najbolje ime za hrvatskog porno glumca",
+    "photo": "/static/photos/2016/disco/mak_muftic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Prpić",
+    "quote": "Such is lyfe",
+    "mostLikely": "Doktor u kući",
+    "photo": "/static/photos/2016/disco/nikola_prpic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dražen",
+    "lastName": "Šarec",
+    "quote": "Što više popiješ, to bolje izgledam. Živjeli!",
+    "mostLikely": "Human puppy.",
+    "photo": "/static/photos/2016/disco/drazen_sarec.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Dragan 'Franc'",
+    "lastName": "Srdoč",
+    "quote": "Ajmo van",
+    "mostLikely": "Najvjerojatnije ćete ga zateći kako puši cigaretu ispred KSET-a. Ili kako spava u Video sekciji.",
+    "photo": "/static/photos/2016/disco/dragan_franc_srdoc.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Zadro",
+    "quote": "Got 99 problems, but this bitch ain't one.",
+    "mostLikely": "Najvjerojatnije najteži slučaj Resting Bitch Face sindroma u KSET-u.",
+    "photo": "/static/photos/2016/disco/luka_zadro.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Valentino 'Tino Žino'",
+    "lastName": "Žinić",
+    "quote": "What happens in KSET, stays in KSET.",
+    "mostLikely": "Najvjerojatnije će se reinkarnirati kao Dražen Zečić.",
+    "photo": "/static/photos/2016/disco/tino_zino.jpg",
+    "anchorHolder": ""
+  }
+]

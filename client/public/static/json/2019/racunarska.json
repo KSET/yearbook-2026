@@ -1,0 +1,106 @@
+[
+  {
+    "firstName": "Računarska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/racunarska_grupna.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Bratović",
+    "quote": "Sve će biti 200 OK",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/ivan_bratovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Marin",
+    "lastName": "Capan",
+    "quote": "Hack me daddy",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/marin_capan.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Sven Juraj",
+    "lastName": "Fijan",
+    "quote": "This quote is not available due to copyright violation according to article 13",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/sven_fijan.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Josip",
+    "lastName": "Igrec",
+    "quote": "Igram Igrece",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/josip_igrec.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Jakov",
+    "lastName": "Ivković",
+    "quote": "Daj taj mikrotik",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/jakov_ivkovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Karlović",
+    "quote": "A ma ne znam, samo stavite nesto duhovito",
+    "mostLikely": "Vjerojatno bi napravio dobar servis",
+    "photo": "/static/photos/2019/racunarska/ivan_karlovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Andrej",
+    "lastName": "Mijić",
+    "quote": "Prosvjed pred sudom za ljudska prava",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/andrej_mijic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Karlo",
+    "lastName": "Miličević",
+    "quote": "Tko prvi djevojci sam u nju upada",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/karlo_milicevic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Anel",
+    "lastName": "Novak",
+    "quote": "Isus LANarećanin",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/anel_novak.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Novković",
+    "quote": "Facts don't care about your feelings",
+    "mostLikely": "Autor ljetnog hita 'Računarci umiru sami'",
+    "photo": "/static/photos/2019/racunarska/bojan_novkovic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Gregor",
+    "lastName": "Orlić",
+    "quote": "French me like one of your paint girls",
+    "mostLikely": "Drvosječa godine",
+    "photo": "/static/photos/2019/racunarska/gregor_orlic.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
+    "firstName": "Leonard",
+    "lastName": "Volarić Horvat",
+    "quote": "Svaki čovjek ima svoj blues",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/racunarska/leonard_volaric_horvat.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  }
+]

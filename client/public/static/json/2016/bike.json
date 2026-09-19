@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "Bike",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/bike/bike_grupna.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
+    "firstName": "Fran",
+    "lastName": "Miočić-Stošić",
+    "quote": "Zato mu suze naplati, sve nek ti s kamatom vrati. Uzmi mu kuću, kola, sve, za sve te paklene godine.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/bike/fran_miocic_stosic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Mihael",
+    "lastName": "Nosil",
+    "quote": "Moja mala nema prednji' zubi, kad me ljubi, jezikom me ubi.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/bike/mihael_nosil.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Rosić",
+    "quote": "Does it come in pink?",
+    "mostLikely": "Najvjerojatnije ne zna da ne moraš ama baš sve lajkati na fejsu.",
+    "photo": "/static/photos/2016/bike/anja_rosic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Zrinka",
+    "lastName": "Samac",
+    "quote": "Check out my ride! ;)",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/bike/zrinka_samac.jpg",
+    "anchorHolder": ""
+  }
+]

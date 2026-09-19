@@ -1,0 +1,234 @@
+[
+  {
+    "firstName": "Foto",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/foto_grupna.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Tajana",
+    "lastName": "Barac",
+    "quote": "Samo sreća",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/tajana_barac.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Brzica",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/lea_brzica.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Kristina",
+    "lastName": "Delić",
+    "quote": "Pusti me na miru da beren svoje masline",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/kristina_delic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Antonia",
+    "lastName": "Drezga",
+    "quote": "Sve su mi ovce na broju",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/antonia_drezga.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Đerek",
+    "quote": "It's back",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/ivan_derek.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Silvia-Maria",
+    "lastName": "Franov",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/silvia-maria_franov.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Grubiša",
+    "quote": "A madman sees what he sees",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/paula_grubisa.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Izidora",
+    "lastName": "Horvat",
+    "quote": "Propuh ubija",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/izidora_horvat.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Ivezić",
+    "quote": "Multitasking",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/dora_ivezic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Mario 'Bario'",
+    "lastName": "Jembrek",
+    "quote": "Lep mlad simpatičan, previše romantičan. 0917516141",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/mario_jembrek.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Viktor",
+    "lastName": "Katalenić",
+    "quote": "Throws empty pint and roars: 'ANOTHER!!!'",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/viktor_katalenic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Sven",
+    "lastName": "Knechtl",
+    "quote": "ČEH, BOŠ CVIRKE JO?",
+    "mostLikely": "Vjerojatno nitko nije razumio ovaj quote osim njega",
+    "photo": "/static/photos/2019/foto/sven_knechtl.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Lucija 'Vilica'",
+    "lastName": "Kolarić",
+    "quote": "Prevarili su me!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/lucija_kolaric.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Katarina",
+    "lastName": "Kovačević",
+    "quote": "Yeeeeeee",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/katarina_kovacevic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Krčar",
+    "quote": "Haaaaaaw",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/bruno_krcar.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Anita",
+    "lastName": "Krtalić",
+    "quote": "Samo ovdje i sada jer imači smo kada",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/anita_krtalic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Magdalenić",
+    "quote": "Vrijeme je da položim taj vozački",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/maja_magdalenic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Lana",
+    "lastName": "Nežmah",
+    "quote": "Peri suđe ko da ćeš ti iz njega kasnije jest",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/lana_nezmah.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Marko '2Pac'",
+    "lastName": "Pacadi",
+    "quote": "Znači isuse Bože",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/marko_pacadi.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Mladen",
+    "lastName": "Petr",
+    "quote": "Hej dušo Canon brani",
+    "mostLikely": "Direktor svemira",
+    "photo": "/static/photos/2019/foto/mladen_petr.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Radmanić",
+    "quote": "Spavam po tonskim probama",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/andrea_radmanic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Reljanović",
+    "quote": "Life is like a roll of film - you never know what you gonna get",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/marta_reljanovic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Roglić",
+    "quote": "I have the power of God and Anime on my side",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/matija_roglic.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Doria",
+    "lastName": "Šarić",
+    "quote": "Pic or it didn't happen",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/doria_saric.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "David 'Dadek'",
+    "lastName": "Šterpin",
+    "quote": "Daj nemoj mi raditi stres",
+    "mostLikely": "Vjerojatno najmekši izgovaratelj hrvatskih dijakritičkih znakova",
+    "photo": "/static/photos/2019/foto/david_sterpin.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Štorga",
+    "quote": "Selfie sunday =)",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/ana_storga.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Matej",
+    "lastName": "Testen",
+    "quote": "Tko igra za raju, a zanemaruje taktiku završit će karijeru u nižerazrednom vratniku",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/foto/matej_testen.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
+    "firstName": "Tvrtko",
+    "lastName": "Zadro",
+    "quote": "Oce tko odbojku?",
+    "mostLikely": "Postojan kao njegova statistika dežurstava",
+    "photo": "/static/photos/2019/foto/tvrtko_zadro.jpg",
+    "anchorHolder": "foto-sekcija"
+  }
+]

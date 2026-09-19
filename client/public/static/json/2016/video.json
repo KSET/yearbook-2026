@@ -1,0 +1,130 @@
+[
+  {
+    "firstName": "Video",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/video_grupna.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
+    "firstName": "Domagoj",
+    "lastName": "Bakuta",
+    "quote": "Ovo je tvoj život i svršava trenutak po trenutak",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/domagoj_bakuta.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Tamara",
+    "lastName": "Biljanović",
+    "quote": "To je sve kamenac, Stevane. - Mladen",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/tamara_biljanovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Čupić",
+    "quote": "But I was going into Tosche Station to pick up some power converters!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/luka_cupic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Erdeljac",
+    "quote": "Do you need to upgrade your VLC player",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/luka_erdeljac.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Eda",
+    "lastName": "Jovičić",
+    "quote": "Što činimo kad stvari krenu dalje? Samo plivaj!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/eda_jovicic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Vedran",
+    "lastName": "Ivković",
+    "quote": "NEĆEŠ DOBIT ZAVJESE U POLA CIJENE!!!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/vedran_ivkovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Josip",
+    "lastName": "Kalafatić",
+    "quote": "Dosta mi je swaga!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/josip_kalafatic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Vedran",
+    "lastName": "Lovinčić",
+    "quote": "Što je tamnija bobica, slađi je đus.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/vedran_lovincic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Mrnjavac",
+    "quote": "Kurve i kokain.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/andrea_mrnjavac.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Niko",
+    "lastName": "Primer",
+    "quote": "You're tearing me apart, Lisa!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/niko_primer.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Cvijeta",
+    "lastName": "Škarić",
+    "quote": "Casting couch potato.",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/cvijeta_skaric.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Škaro",
+    "quote": "Ima li ko kunu?",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/ana_skaro.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Mislav",
+    "lastName": "Tomljanović",
+    "quote": "Utoka je za vodokotlićem na ćenifi!",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/mislav_tomljanovic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Josip",
+    "lastName": "Vladić",
+    "quote": "Nemoj kupit kauč (bolje prodaj kauč).",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/josip_vladic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Margarita",
+    "lastName": "Vlaović",
+    "quote": "Fakultet šmakultet",
+    "mostLikely": "",
+    "photo": "/static/photos/2016/video/margarita_vlaovic.jpg",
+    "anchorHolder": ""
+  }
+]

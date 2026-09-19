@@ -1,0 +1,162 @@
+[
+  {
+    "firstName": "Tehnička",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/tehnicka_grupna.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Hannah-Villi",
+    "lastName": "Bigović",
+    "quote": " (º﹃º )╭ * food *",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/hannah-villi_bigovic.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Borna",
+    "lastName": "Bilas",
+    "quote": "Kaj?!?!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/borna_bilas.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Boronjek",
+    "quote": "Dok bojam ne bojim se",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/ana_boronjek.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Cvjetko",
+    "quote": "U radosti i tuzi, cvijeće ti je prijatelj",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/marko_cvjetko.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Dominik",
+    "lastName": "Erić",
+    "quote": "Gravitacija je samo mišljenje",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/dominik_eric.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Karlo",
+    "lastName": "Filek",
+    "quote": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/karlo_filek.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Karlo",
+    "lastName": "Glogoški",
+    "quote": "'Karlo možeš li popraviti? Naravno da mogu.'",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/karlo_glogoski.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Fran",
+    "lastName": "Kostelac",
+    "quote": "Bum rešil",
+    "mostLikely": "Vjerojatno nije nikog rešil",
+    "photo": "/static/photos/2019/tehnicka/fran_kostelac.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Kenneth",
+    "lastName": "Kostrešević",
+    "quote": "Slika govori 1000 riječi, ali 1000 riječi ne sluša sliku",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/kenneth_kostresevic.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Ena-Lucija",
+    "lastName": "Kovač",
+    "quote": "Kriva ti je priprema (opet)",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/ena-lucija_kovac.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Petra",
+    "lastName": "Kovačević",
+    "quote": "Do kad to treba bit gotovo?",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/petra_kovacevic.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Lovrec",
+    "quote": "Hladna piva, sretna Iva",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/iva_lovrec.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Petra",
+    "lastName": "Malezija",
+    "quote": "Šta?",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/petra_malezija.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Piliškić",
+    "quote": "Pazi prste!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/marija_piliskic.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Ivica",
+    "lastName": "Tafra",
+    "quote": "Želim biti najveći, kao nitko dosad!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/ivica_tafra.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Ariana",
+    "lastName": "Vađunec",
+    "quote": " ┐(´∀｀)┌ ",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/ariana_vadunec.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Tonka",
+    "lastName": "Varnica",
+    "quote": "Ma nek ti oči sevaju ko varnice",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/tonka_varnica.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Josipa",
+    "lastName": "Vincetić",
+    "quote": "Unicorns are real, duhh!?!",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/josipa_vincetic.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Iva i Petra",
+    "lastName": "",
+    "quote": "Licence to drill",
+    "mostLikely": "",
+    "photo": "/static/photos/2019/tehnicka/tech_duo.jpg",
+    "anchorHolder": "tehnicka-sekcija"
+  }
+]
