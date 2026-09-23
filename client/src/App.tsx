@@ -16,15 +16,13 @@ const MANIFEST_URL = '/static/manifest.json';
 
 interface Manifest {
   years: string[];
-  sections: { [key: string]: string[] };
 }
 
 interface GalleryPageProps {
-  selectedYear: string | null;
   onYearSelect: (year: string | null) => void;
 }
 
-function GalleryPage({ selectedYear, onYearSelect }: GalleryPageProps) {
+function GalleryPage({ onYearSelect }: GalleryPageProps) {
   const { year, section } = useParams<{ year: string; section: string }>();
   const [members, setMembers] = useState<Member[]>([]);
   
@@ -77,7 +75,6 @@ function HomePage() {
 function App() {
   const [selectedYear, setSelectedYear] = useState<string | null>(null);
   const [years, setYears] = useState<string[]>([]);
-  const [sections, setSections] = useState<{ [key: string]: string[] }>({});
 
   // Manifest se generira build/dev skriptom iz public/static/photos, pa ne treba backend
   useEffect(() => {
@@ -85,7 +82,6 @@ function App() {
       .then(res => res.json())
       .then((manifest: Manifest) => {
         setYears(manifest.years);
-        setSections(manifest.sections);
       })
       .catch(err => {
         console.error('Error fetching manifest:', err);
@@ -107,9 +103,8 @@ function App() {
   return (
     <Router>
       <div className="app-container bg-dark min-vh-100">
-        <Navbar 
+        <Navbar
           years={years}
-          sectionsMap={sections}
           onSelect={handleSelect}
           onHome={handleHome}
           selectedYear={selectedYear || undefined}
@@ -117,7 +112,7 @@ function App() {
         
         <main className="container-fluid p-0">
           <Routes>
-            <Route path="/:year/:section" element={<GalleryPage selectedYear={selectedYear} onYearSelect={setSelectedYear} />} />
+            <Route path="/:year/:section" element={<GalleryPage onYearSelect={setSelectedYear} />} />
             <Route path="/" element={<HomePage />} />
           </Routes>
         </main>

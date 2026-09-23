@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Ana",
+    "lastName": "Horvat",
+    "photo1": "/static/photos/2025/foto/ana_horvat1.jpg",
+    "photo2": "/static/photos/2025/foto/ana_horvat2.jpg"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Kovač",
+    "photo1": "/static/photos/2025/foto/marko_kovac1.jpg",
+    "photo2": "/static/photos/2025/foto/marko_kovac2.jpg"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Babić",
+    "photo1": "/static/photos/2025/foto/iva_babic1.jpg",
+    "photo2": "/static/photos/2025/foto/iva_babic2.jpg"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Perić",
+    "photo1": "/static/photos/2025/foto/luka_peric1.jpg",
+    "photo2": "/static/photos/2025/foto/luka_peric2.jpg"
+  }
+]
